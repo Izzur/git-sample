@@ -9,4 +9,7 @@ print("Hallo "+nama)
 
 ### BAGIANNYA IZZUR
 
+nama = "Izzur"
+print("Hallo "+nama)
+
 ### ### ###
