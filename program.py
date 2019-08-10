@@ -1,6 +1,6 @@
 ### KODINGAN UTAMA
 
-nama = "Wisnu"
+nama = "WisnuDuaBelas"
 print("Hallo "+nama)
 
 ### BAGIANNYA ALVIN
