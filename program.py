@@ -1,5 +1,4 @@
 ### KODINGAN UTAMA
-
 nama = "Wisnu2"
 print("Hallo "+nama)
 
